@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amandeep Singh Arora</h1>
 <h3 align="center">A final year computer science student, aspiring to be a software developer...</h3>
 
-- 🔭 I’m currently working on [PinEvents](https://github.com/Aryaman15/PinEvents)
-
 - 📫 How to reach me **amandeep.official60@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1st0a6VOwu1tKu2xVp7rV2cuU7ABfhN1B/view?usp=sharing](https://drive.google.com/file/d/1st0a6VOwu1tKu2xVp7rV2cuU7ABfhN1B/view?usp=sharing)
